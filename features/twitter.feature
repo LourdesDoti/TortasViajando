@@ -4,3 +4,4 @@ Feature: Prueba en twitter
 
    Scenario: Iniciamos sesion en twitter
    Given Abrimos la página de twitter
+   When Iniciamos sesion 
